@@ -36,23 +36,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-###
-
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" alt="Power BI" width="45" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="Excel" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/google-looker.svg" alt="Looker Studio" width="45" height="45"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Microsoft_Office_Excel_%282019–present%29.svg" alt="Excel" width="45" height="45"/>
-  <img src="https://seeklogo.com/images/L/looker-studio-logo-A63B71B33F-seeklogo.com.png" alt="Looker Studio" width="45" height="45"/>
 </p>
-
-<p align="left">
-  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
-  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-  ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white)
-  ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-</p>
-
-###
 
 <h2 align="left">📬 Let’s Connect</h2>
 
