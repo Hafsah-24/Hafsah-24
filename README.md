@@ -27,21 +27,19 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />  
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
-
-<p align="left">
-<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="Excel" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/google-looker.svg" alt="Looker Studio" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="30" height="30" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021" />
+  <img width="30" height="30" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1" />
+  <img width="30" height="30" src="https://img.icons8.com/color/48/google-looker.png" alt="google-looker" />
+  <img width="30" height="30" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software" />
 </p>
+</div>
 
 <h2 align="left">📬 Let’s Connect</h2>
 
